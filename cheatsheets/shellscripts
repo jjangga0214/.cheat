@@ -1,0 +1,9 @@
+```bash
+
+BASE_DIR=$(dirname "$0") # cwd of the script
+
+: "${ZSH_CUSTOM:=$HOME/.oh-my-zsh/custom}" #
+
+DOTFILES_DOCKER_DEBIAN_RELEASE=${DOTFILES_DOCKER_DEBIAN_RELEASE:=$(lsb_release -cs)} #
+
+```
