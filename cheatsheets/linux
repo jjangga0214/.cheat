@@ -1,0 +1,5 @@
+```bash
+
+cp some-startup.sh /etc/profile.d # auto-startup command on booting
+
+```

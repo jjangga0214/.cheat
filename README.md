@@ -4,6 +4,8 @@ Cheatsheets that coordinates with [cheat/cheat](https://github.com/cheat/cheat).
 
 ## clone
 
+I prefer to place this as `$HOME`**/.cheat**.
+
 ```bash
 git clone https://github.com/jjangga0214/.cheat.git $HOME/.cheat
 ```
